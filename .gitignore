@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Dependency directories
+fastapi_example/.venv/
+fastapi_example/.env/
+
+# .vscode directory
+.vscode/
+
+# IDE settings
+*.idea/
+
+# Compiled Python files
+*.pyc
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+
+# FastAPI generated OpenAPI and ReDoc files
+openapi.json
+redoc.html
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Local development configuration
+config/local_settings.py
